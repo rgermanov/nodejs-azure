@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-azure-app-service",
+  "version": "1.0.0",
+  "description": "Node js web app example for Azure",
+  "main": "index.js",
+  "engines": {
+    "node" : "6.9.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgermanov/nodejs-azure.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgermanov/nodejs-azure/issues"
+  },
+  "homepage": "https://github.com/rgermanov/nodejs-azure#readme"
+}
